@@ -130,5 +130,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🔗 External Links / 外部リンク
 
 - **arXiv author page**: [https://arxiv.org/a/lumavoice.html](https://arxiv.org/a/lumavoice.html)
-- **Zenodo record**: [https://zenodo.org/records/16754305]((https://zenodo.org/records/16754305)) 
+- **Zenodo record**: [https://zenodo.org/records/16754305](https://zenodo.org/records/16754305)
 - **OEIS profile**: [https://oeis.org/wiki/User:Ryosuke_Miyazawa](https://oeis.org/wiki/User:Ryosuke_Miyazawa)
